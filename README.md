@@ -20,11 +20,10 @@ Lista de projetos em Jupyter Notebook:
 
 ### Sobre mim:
 
-Sou Servidor estadual de Estado de Justiça e Segurança Pública.
+Sou Servidor Estadual de Estado de Justiça e Segurança Pública.
 
 * Graduando em Ciência de Dados pelo UNOPAR.
 * Técnico em Contabilidade pela Escola Politécnica.
 * Curso de Formação Cientista de Dados com Python e R.
-
 
 
