@@ -12,11 +12,11 @@ Aqui você encontra os *notebooks* dos meus projetos na área de Data Science, M
 Lista de projetos em Jupyter Notebook:
 
 * **Análise dos Dados do Airbnb para o Rio de Janeiro:** https://bit.ly/3opnKQ8
-* ** :** https:/
-* ** :** https://
-* ** :** https://
-* ** :** https://
-* ** :** https://
+* 
+* 
+* 
+* 
+* 
 
 ---
 
