@@ -16,7 +16,6 @@ Lista de projetos em Jupyter Notebook:
 * 
 * 
 * 
-* 
 
 ---
 
@@ -25,7 +24,8 @@ Lista de projetos em Jupyter Notebook:
 Sou Servidor Estadual de Estado de Justiça e Segurança Pública.
 
 * Graduando em Ciência de Dados pela UNOPAR.
+* Especialização Lato Sensu em Reabilitação de Membro Superior
 * Técnico em Contabilidade pela Escola Politécnica.
 * Curso de Formação Cientista de Dados com Python e R.
-
+* Curso de Formação Cientista de Dados II: Tópicos Avançados
 
