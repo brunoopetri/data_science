@@ -12,16 +12,16 @@ Aqui você encontra os *notebooks* dos meus projetos na área de Data Science, M
 Lista de projetos em Jupyter Notebook:
 
 * **Análise dos Dados do Airbnb para o Porto - Portugal:** https://bit.ly/3opnKQ8
-* 
-* 
-* 
-* 
+--- 
+--- 
+---
+--- 
 
 ---
 
 ### Sobre mim:
 
-Sou Servidor Estadual de Estado de Justiça e Segurança Pública.
+Sou Servidor Estadual de Estado de Justiça e Segurança Pública - SEJUSP
 
 * Graduando em Ciência de Dados pela UNOPAR.
 * Especialização Lato Sensu em Reabilitação de Membro Superior
