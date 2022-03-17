@@ -6,13 +6,13 @@
   <img src="![datascience](https://user-images.githubusercontent.com/98756562/152653770-79978f9f-70de-4d9c-b77f-281c7c3036a9.png)" >
 </p>
 
-Aqui você encontra os *notebooks* dos meus projetos na área de Data Science, Machine Learning e Deep Learning.
+Aqui você encontra os *notebooks* dos meus projetos na área de Data Science.
 
 ## Projetos:
 Lista de projetos em Jupyter Notebook:
 
 * **Análise dos Dados do Airbnb - Porto︳Portugal:** https://bit.ly/3opnKQ8
- 
+* **Análise Exploratória dos Dados de Violência do Rio de Janeiro:** https://bit.ly/3KTqZbn
  
 
  
