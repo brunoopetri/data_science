@@ -13,7 +13,7 @@ Lista de projetos em Jupyter Notebook:
 
 * **Análise dos Dados do Airbnb - Porto︳Portugal:** https://bit.ly/3opnKQ8
 * **Análise Exploratória dos Dados de Violência do Rio de Janeiro:** https://bit.ly/3KTqZbn
- 
+* **Suicídio no Brasil: Análise Explorátoria de Dados:** https://bit.ly/3JpIwrc 
 
  
 
