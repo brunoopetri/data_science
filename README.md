@@ -8,7 +8,7 @@
 
 #Link:
 
-* **[LinkedIn]**(https://br.linkedin.com/in/brunoopetri)
+* **[LinkedIn](https://br.linkedin.com/in/brunoopetri)**
 
 
 Aqui você encontra os *notebooks* dos meus projetos na área de Data Science.
