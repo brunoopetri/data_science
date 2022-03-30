@@ -6,12 +6,6 @@
   <img src="![datascience](https://user-images.githubusercontent.com/98756562/152653770-79978f9f-70de-4d9c-b77f-281c7c3036a9.png)" >
 </p>
 
-### Link:
-
-* **[LinkedIn](https://br.linkedin.com/in/brunoopetri)**
-
-
-
 
 Aqui você encontra os *notebooks* dos meus projetos na área de Data Science.
 
@@ -34,3 +28,8 @@ Lista de projetos em Jupyter Notebook:
 * Curso de Formação Cientista de Dados com Python e R.
 * Curso de Formação Cientista de Dados II: Tópicos Avançados
 
+--
+
+### Link:
+
+* **[LinkedIn](https://br.linkedin.com/in/brunoopetri)**
