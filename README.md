@@ -28,7 +28,7 @@ Lista de projetos em Jupyter Notebook:
 * Curso de Formação Cientista de Dados com Python e R.
 * Curso de Formação Cientista de Dados II: Tópicos Avançados
 
---
+---
 
 ### Link:
 
