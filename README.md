@@ -12,9 +12,9 @@ Aqui você encontra os *notebooks* dos meus projetos na área de Data Science.
 ## Projetos:
 Lista de projetos em Jupyter Notebook:
 
-* **Análise dos Dados do Airbnb - Porto︳Portugal:** https://bit.ly/3opnKQ8
-* **Análise Exploratória dos Dados de Violência do Rio de Janeiro:** https://bit.ly/3KTqZbn
-* **Suicídio no Brasil: Análise Explorátoria de Dados:** https://bit.ly/3JpIwrc 
+* **[Análise dos Dados do Airbnb - Porto︳Portugal](https://bit.ly/3opnKQ8)**
+* **[Análise Exploratória dos Dados de Violência do Rio de Janeiro](https://bit.ly/3KTqZbn)**
+* **[Suicídio no Brasil: Análise Explorátoria de Dados](https://bit.ly/3JpIwrc)** 
 * **[Avaliação de Risco de Crédito com Machine Learning](https://bit.ly/3yFNFJf)**
  
 
